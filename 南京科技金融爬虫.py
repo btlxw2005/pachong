@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
 
 from bs4 import BeautifulSoup  
 import requests  
@@ -85,7 +83,6 @@ if __name__ == "__main__":
     main() 
 
 
-# In[ ]:
 
 
 
